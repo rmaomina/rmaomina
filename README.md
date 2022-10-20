@@ -11,12 +11,17 @@ const mina = {
  challenge: "현재 부트캠프에서 프론트엔드 개발자로 성장하고 있습니다."
 }
 ```
+<p>
+  <img width="415" src="https://github-readme-stats.vercel.app/api?username=rmaomina&amp;show_icons=true&amp;show_owner=true" alt="MA&#39;s GitHub stats"/> 
+  <a width="" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" alt="Top Langs"/>
+  </a>
+</p>
+
 <hr/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2016%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue) ![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2016%20mins-blue)
 
 **I'm a Night 🦉** 
 
