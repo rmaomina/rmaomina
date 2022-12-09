@@ -1,5 +1,5 @@
 ### 만나서 반갑습니다! 👋
-✨ 예비 프론트엔드 개발자 김민아입니다. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
+✨ 프론트엔드 개발자 김민아입니다. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
 <a width="" href="https://velog.io/@rmaomina">
   <img src="https://img.shields.io/badge/velog-1FC897.svg?&style=for-the-badge&logo=velog&logoColor=ffffff" width="80">
